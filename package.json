@@ -1,0 +1,19 @@
+{
+  "name": "cmritcse",
+  "version": "1.0.0",
+  "description": "Fork this repository \r create your angular,nodejs app \r push your project to your github repository\r and create pull request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PraneethRaoA/CMRITCSE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PraneethRaoA/CMRITCSE/issues"
+  },
+  "homepage": "https://github.com/PraneethRaoA/CMRITCSE#readme"
+}
